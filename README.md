@@ -1,6 +1,4 @@
 Sun Mar  2 07:39:54 PM +0545 2025
----
-
 # Making JWT implementation from scratch
 
 [See The Journey](./Journey.md)

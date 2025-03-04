@@ -12,11 +12,11 @@ type Base64Tests struct {
 }
 
 var base64Tests = []Base64Tests{
-	{"hello", "aGVsbG8="},
-	{"world", "d29ybGQ="},
-	{"Go is cool!", "R28gaXMgY29vbCE="},
-	{"1234567890", "MTIzNDU2Nzg5MA=="},
-	{"!@#$%^&*()", "IUAjJCVeJiooKQ=="},
+	{"hello", "aGVsbG8"},
+	{"world", "d29ybGQ"},
+	{"Go is cool!", "R28gaXMgY29vbCE"},
+	{"1234567890", "MTIzNDU2Nzg5MA"},
+	{"!@#$%^&*()", "IUAjJCVeJiooKQ"},
 	{"", ""},
 }
 
